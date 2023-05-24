@@ -1,0 +1,20 @@
+.table1 {
+    width: 50%;
+    text-align: center;
+    border-collapse: collapse;
+    border-spacing: 0;
+    background: #cdf4f0;
+   }
+   .table1 tr:nth-child(2n+1) {
+    background: #e9faf9;
+   }
+   .table1 th {
+    padding: 10px;
+    border: solid 1px #ffffff;
+    background: #778ca3;
+    color: #ffffff;
+   }
+   .table1 td {
+    padding: 10px;
+    border: solid 1px #ffffff;
+   }
